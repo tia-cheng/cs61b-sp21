@@ -2,6 +2,7 @@
  * create a function with the signature public static int max(int[] m)
  * returns the maximum value of an int array
  * assume that all the numbers are >= 0
+ * @TODO: how to print an array?
  */
 public class MaxValueOfArray {
     public static int max(int[] m){
