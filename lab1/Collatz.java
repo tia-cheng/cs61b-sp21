@@ -4,6 +4,7 @@
 public class Collatz {
 
     /** Buggy implementation of nextNumber! */
+    /** Tia: why input = 6, output is 00000*/
     public static int nextNumber(int n) {
         if (n  == 128) {
             return 1;
